@@ -21,6 +21,7 @@ Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any improvements or bug fixes.
 
 Screenschots: 
+
 ![1](https://github.com/user-attachments/assets/d961066a-43c8-4450-b652-ab5fc9c17294)
 ![2](https://github.com/user-attachments/assets/ab3eda37-fdf5-4d89-80ac-6106c4a5f83b)
 ![3](https://github.com/user-attachments/assets/1847cc6b-c0fd-445a-bfbc-ac17d27b9af8)
