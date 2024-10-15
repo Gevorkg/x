@@ -1,4 +1,5 @@
-Social Media App
+Social Media App(X clone)
+
 Social Media App is a mobile application built using Flutter and Firebase, designed to function like a social media platform. Users can post content, like and comment on posts, follow other users, chat with everyone and etc. The app uses BLoC for state management and integrates Firestore for storing user data, posts, comments, and likes.
 
 Features
@@ -18,3 +19,5 @@ Firebase Cloud Messaging: Push notifications (future feature).
 
 Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any improvements or bug fixes.
+
+Screenschots: 
