@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555128633980",
+    "project_id": "twitterclone-c246b",
+    "storage_bucket": "twitterclone-c246b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555128633980:android:9149fbbff424e34f77e7f9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_x"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3C93mhzi38HZk51pLZoj4HlNELTjTSGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
